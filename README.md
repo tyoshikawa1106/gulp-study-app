@@ -1,10 +1,10 @@
 # gulp-study-app
-## Setup
+### Setup
 ```
 $ npm install
 ```
 
-## Gulp Command
+### Gulp Command
 ```
 $ gulp sass
 ```
